@@ -1,3 +1,9 @@
+"""
+
+Examples of using the CatchFilesErrors decorator
+
+
+"""
 import logging
 import os
 import pathlib
